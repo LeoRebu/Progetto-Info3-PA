@@ -1,6 +1,6 @@
 # Progetto PA MDD-Frontend 
 
-## Sviluppo architettura RESTful di interfaccia a supporto dell'applicativo di conversione MDD da feature models con client web.
+### Sviluppo architettura RESTful di interfaccia a supporto dell'applicativo di conversione MDD da feature models con client web.
 
 - ROOT.zip contiene la webapp da installare su server tomcat
 
